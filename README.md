@@ -5,7 +5,7 @@
 
 <a href = "mailto: ana_luisa23@discente.ufg.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisa_81194)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5Ev4d91eIR15CS7RhYtLTy?si=Nco_OnULRduCPg_YDE31Kg)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=DRYPnxrlQ3-pfNgH6oezOg)
 
 
 
