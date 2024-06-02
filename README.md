@@ -28,7 +28,7 @@ https://github.com/AnaLuisaPS07">
  <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=AnaLuisaPS07&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="AnaLuisaPS07" width="100%" /> </p>
 
  <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/AnaLuisaPS07">
+
 
 </br>
 
