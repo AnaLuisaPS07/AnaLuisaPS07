@@ -59,10 +59,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-![My Animated GIF](img/gif.yourname.gif)
 ![My Animated GIF](img/gif.yourname.gif)
 ![My Animated GIF](img/gif.yourname.gif)
 ![My Animated GIF](img/gif.yourname.gif)
