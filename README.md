@@ -3,6 +3,11 @@
   <ul align="center">
     <summary><h1 style="display: inline-block"> Hey! I'm Ana, be very welcome.👋</h1></summary>
 </div>
+</br>
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
 
 <!-- Presentation -->
 
@@ -13,12 +18,22 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisa_81194)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=DRYPnxrlQ3-pfNgH6oezOg)
 
+</br>
 
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+</br>
 
 
 ![Ana Luísa GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaLuisaPS07&show_icons=true&theme=radical)
 
+</br>
 
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+</br>
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="
 https://github.com/AnaLuisaPS07">
@@ -32,6 +47,8 @@ https://github.com/AnaLuisaPS07">
 
 </br>
 
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ### Technologies I'm currently studying:
 <div style="display: inline_block"><br/>
@@ -39,9 +56,6 @@ https://github.com/AnaLuisaPS07">
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-
-
-
 <br/>
 
 ![My Animated GIF](img/gif.cat.gif)
@@ -77,3 +91,13 @@ https://github.com/AnaLuisaPS07">
 ![My Animated GIF](img/gif.yourname.gif)
 ![My Animated GIF](img/gif.yourname.gif)
 ![My Animated GIF](img/gif.yourname.gif)
+
+
+
+
+
+</br>
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
