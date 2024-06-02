@@ -1,4 +1,4 @@
-# Hello, world! I'm Ana, be very welcome.👋
+# Hello, world!🌍 I'm Ana, be very welcome.👋
 
 #### Software Engineering student at the Federal University of Goiás (UFG)👾
 
