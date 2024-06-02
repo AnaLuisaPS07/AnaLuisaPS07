@@ -26,5 +26,3 @@
 
 ![My Animated GIF](img/gif.cat.gif)
 
-![My Animated GIF](img/gif.cat.gif)
-
