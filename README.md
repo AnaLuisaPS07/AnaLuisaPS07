@@ -18,6 +18,7 @@
 
 ![Ana Luísa GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaLuisaPS07&show_icons=true&theme=radical)
 
+
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="
 https://github.com/AnaLuisaPS07">
