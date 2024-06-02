@@ -18,10 +18,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisa_81194)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=DRYPnxrlQ3-pfNgH6oezOg)
 
-</br>
-
-<!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
 
