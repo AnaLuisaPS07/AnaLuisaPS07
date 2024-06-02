@@ -19,7 +19,6 @@
 ![Ana Luísa GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaLuisaPS07&show_icons=true&theme=radical)
 
 ### Technologies I'm currently studying:
-
 <div style="display: inline_block"><br/>
  <img align="center" alt="GOLANG" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> 
  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,4 +30,39 @@
 <br/>
 
 ![My Animated GIF](img/gif.cat.gif)
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+![My Animated GIF](img/gif.yourname.gif)
+![My Animated GIF](img/gif.yourname.gif)
+![My Animated GIF](img/gif.yourname.gif)
+![My Animated GIF](img/gif.yourname.gif)
