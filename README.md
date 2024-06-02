@@ -24,5 +24,7 @@
 
 <br/>
 
-![My Animated GIF](912eb31f1831b144d870392da3c27766.gif)
+![My Animated GIF](img/gif.cat.gif)
+
+![My Animated GIF](img/gif.cat.gif)
 
